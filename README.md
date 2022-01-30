@@ -12,7 +12,7 @@
 ## Documentation
 * Presentation [Slides](https://docs.google.com/presentation/d/1AlDr8H5LY_8CyQQnUTHNoNZCA1F4KANMGV6-wCRXGGM/edit?usp=sharing)
 * Original [Repo](https://github.com/turkutatar/iQuHACK22) - for all files/commits
-* Jupyter Notebook in [Repo](https://github.com/turkutatar/iQuHACK22/blob/QEC-Bingo-v2.0/main.ipynb)
+* Jupyter Notebook about a probability distribution of the error syndromes [here](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Syndrome_Heatmap.ipynb)
 
 ## Technologies Used
 
