@@ -2,12 +2,14 @@
 
 # Project : QEC Bingo Game
 
-## Team
+## Team members and experience
 * [Abhay Kamble](https://github.com/abzsd), CS Undergrad @BITS Goa
 * [Bernard Wo](https://github.com/bernwo) MSc Applied Physics @ Delft University of Technology,
 * [Oskar Słowik](https://github.com/Feigenbaum4669) PhD candidate @ Center for Theoretical Physics PAS,
 * [Wridhdhisom Karar](https://github.com/wridhdhi) PhD @ University of Glasgow,
 * [Fatma Türkü Tatar](https://github.com/turkutatar), Electrical Engineering Undergraduate @ Cankaya University
+
+Experience - *Our team is highly diverse in terms of nationalities and education levels. We created a supportive and hard working environment together and everyone did their part as perfect as it can be within 24 hours. Despite being in this extraordinary times where hackathons are conducted **remotely** with participants all over the globe with different timezones, we still managed to have had productive and insightful discussion together. We are glad we hacked together :)*
 
 ## Demo
 
@@ -61,9 +63,6 @@ Clone the repository via `git clone https://github.com/Feigenbaum4669/2022_qutec
 ```bash
 py main.py
 ```
-
-## Our team's personal experience on the iQuHACK weekend
-Our team is highly diverse in terms of nationalities and education levels. We created a supportive and hard working environment together and everyone did their part as perfect as it can be within 24 hours. Despite being in this extraordinary times where hackathons are conducted **remotely** with participants all over the globe with different timezones, we still managed to have had productive and insightful discussion together. We are glad we hacked together :)
 
 ### Probability heatmap of the syndromes
 
