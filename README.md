@@ -6,7 +6,7 @@
 * [Abhay Kamble](https://github.com/abzsd), CS Undergrad @BITS Goa
 * [Bernard Wo](https://github.com/bernwo) MSc Applied Physics @ Delft University of Technology,
 * [Oskar Słowik](https://github.com/Feigenbaum4669) PhD candidate @ Center for Theoretical Physics PAS,
-* Wridhdhisom Karar,
+* [Wridhdhisom Karar](https://github.com/wridhdhi) PhD @ University of Glasgow,
 * [Fatma Türkü Tatar](https://github.com/turkutatar), Electrical Engineering Undergraduate @ Cankaya University
 
 ## Documentation
