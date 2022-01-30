@@ -1,5 +1,5 @@
-import helper_functions as hf
-import quantum_backend as qb
+import Auxilliary_functions_Bingo.helper_functions as hf
+import Auxilliary_functions_Bingo.quantum_backend as qb
 
 if __name__ == '__main__':
     hf.clear()
