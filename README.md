@@ -21,7 +21,7 @@ Also see the section [*How to run the code to play the game?*](https://github.co
 * Original repository [here](https://github.com/turkutatar/iQuHACK22/tree/QEC-Bingo) - for all files/commits
 * Jupyter Notebook about a probability distribution of the error syndromes [here](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Syndrome_Heatmap.ipynb)
 
-## Technologies Used
+## Libraries and tools Used
 
 * [`QX single-node simulator`](https://www.quantum-inspire.com/backends/qx-simulator/) - A [*Quantum-Inspire*](https://www.quantum-inspire.com/) classical simulator backend capable of simulating ~20~30 qubits.
 * [`Qiskit`](https://qiskit.org/) - IBM's Quantum computing SDK.
@@ -35,6 +35,10 @@ Below, we see the 1-to-1 mapping of the single-qubit errors to the ancilla syndr
 
 ![ex_table](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/correction_table.png)
 
+The quantum circuit of the five qubit code *with artificially injected X2* is shown below:
+
+![ex_circuit](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/example_circuit.png)
+
 ## Layout 
 The basic layout of the game is a 4x4 grid which contains numbers ranging from 0 to 15, i.e., 0000 to 1111 in binary. Those numbers correspond to all possible error syndromes. In the beginning the grid is randomly generated, and each player has a separate grid.
 
@@ -44,10 +48,7 @@ At each turn, a player gives an input, which can be no error (I) or any of the s
 
 ![ex_grid](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/labelled_grid.png)
 
-## Implementation 
-We can implement this code and use [*Quantum-Inspire*](https://www.quantum-inspire.com/)'s classical simulator since our idea uses 9 qubits.
-
-## How to play the game?
+## Rules of the game
 Player A gives input *i* in the form of a string.
 Input gets processed and a quantum circuit is constructed with qiskit.
 The quantum circuit is then sent to quantum-inspire.
