@@ -9,6 +9,11 @@
 * [Wridhdhisom Karar](https://github.com/wridhdhi) PhD @ University of Glasgow,
 * [Fatma Türkü Tatar](https://github.com/turkutatar), Electrical Engineering Undergraduate @ Cankaya University
 
+## Demo
+
+![something](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/running_code.gif?raw=true)
+Also see the section [*How to run the code to play the game?*](https://github.com/Feigenbaum4669/2022_qutech_challenge#how-to-run-the-code-to-play-the-game) below.
+
 ## Documentation
 * Presentation [Slides](https://docs.google.com/presentation/d/1AlDr8H5LY_8CyQQnUTHNoNZCA1F4KANMGV6-wCRXGGM/edit?usp=sharing)
 * Original repository [here](https://github.com/turkutatar/iQuHACK22/tree/QEC-Bingo) - for all files/commits
@@ -52,8 +57,6 @@ Clone the repository via `git clone https://github.com/Feigenbaum4669/2022_qutec
 ```bash
 py main.py
 ```
-
-![something](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/running_code.gif?raw=true)
 
 ## Our team's personal experience on the iQuHACK weekend
 Our team is highly diverse in terms of nationalities and education levels. We created a supportive and hard working environment together and everyone did their part as perfect as it can be within 24 hours. Despite being in this extraordinary times where hackathons are conducted **remotely** with participants all over the globe with different timezones, we will managed to have had productive and insightful discussion together. We are glad we hacked together :)
