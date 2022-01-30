@@ -64,6 +64,10 @@ Clone the repository via `git clone https://github.com/Feigenbaum4669/2022_qutec
 py main.py
 ```
 
+### Different variants of the game
+
+It is straightforward to modify the gambe by choosing other single-qubit gates, e.g. containing the Hadamard gate. This way the syndromes can be made probabilistic changing the game expierience.
+
 ### Probability heatmap of the syndromes
 
 Separate from the Bingo game, we also visualised the probability heatmap of the 16 possible syndromes using the **custom error model** outlined in the [Jupyter notebook (`Syndrome_Heatmap.ipynb`)](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Syndrome_Heatmap.ipynb). Such a heatmap is shown below and also in the notebook. 
