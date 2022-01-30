@@ -42,10 +42,10 @@ Quantum-Inspire returns the syndrome, and Player A and B mark their correspondin
 The above steps are repeated between the Player A and B, until one wins.
 
 ## What is quantum about this game?
-The players are introducing quantum errors whose syndromes are detected by a QEC code running on a quantum computer.
+The players are introducing quantum errors whose syndromes are detected by stabiliser generators of a QEC code running on a quantum computer. In this case, we are classically simulating the quantum computer via [`QX single-node simulator`](https://www.quantum-inspire.com/backends/qx-simulator/).
 
 ## How to run the code to play the game?
-Clone the repository, and edit the `cred.txt` to include your own Quantum-Inspire credentials. Then, in the root folder, execute the following command in your terminal to run the game:
+Clone the repository via `git clone https://github.com/Feigenbaum4669/2022_qutech_challenge.git`, and edit the `cred.txt` to include your own Quantum-Inspire credentials. Then, in the root folder, execute the following command in your terminal to run the game:
 
 ```bash
 py main.py
