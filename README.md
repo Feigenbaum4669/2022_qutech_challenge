@@ -29,6 +29,10 @@ Also see the section [*How to run the code to play the game?*](https://github.co
 ## QEC Preliminaries 
 The [`[[5,1,3]]` code](https://en.wikipedia.org/wiki/Five-qubit_error_correcting_code) is a five qubit quantum error correction code (QECC) which uses 9 qubits in total: 5 physical qubits and 4 ancilla qubits. This code encodes one logical qubit and can correct an arbitrary single qubit error, e.g., Pauli-X/Y/Z error on any one of physical qubits.
 
+Below, we see the 1-to-1 mapping of the single-qubit errors to the ancilla syndromes. *Image source: [Wikipedia](https://en.wikipedia.org/wiki/Five-qubit_error_correcting_code).*
+
+![ex_table](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/correction_table.png)
+
 ## Layout 
 The basic layout of the game is a 4x4 grid which contains numbers ranging from 0 to 15, i.e., 0000 to 1111 in binary. Those numbers correspond to all possible error syndromes. In the beginning the grid is randomly generated, and each player has a separate grid.
 
