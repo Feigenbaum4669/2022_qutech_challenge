@@ -66,7 +66,7 @@ py main.py
 
 ### Different variants of the game
 
-It is straightforward to modify the gambe by choosing other single-qubit gates, e.g. containing the Hadamard gate. This way the syndromes can be made probabilistic changing the game expierience.
+It is straightforward to modify the game by choosing other single-qubit gates representing errors, e.g. containing the Hadamard gate. This way the syndromes can be made probabilistic changing the game expierience.
 
 ### Probability heatmap of the syndromes
 
