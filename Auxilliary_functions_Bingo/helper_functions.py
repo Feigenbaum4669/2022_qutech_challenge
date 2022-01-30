@@ -3,7 +3,7 @@ import random
 import numpy as np
 import pandas as pd
 
-import quantum_backend as qb
+import Auxilliary_functions_Bingo.quantum_backend as qb
 
 clear = lambda: os.system('cls' if os.name == 'nt' else 'clear') or None  # function to clear interpreter terminal.
 
