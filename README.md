@@ -51,6 +51,8 @@ Clone the repository via `git clone https://github.com/Feigenbaum4669/2022_qutec
 py main.py
 ```
 
+![](https://github.com/Feigenbaum4669/2022_qutech_challenge/tree/main/Assets/running_code.gif)
+
 ## Our team's personal experience on the iQuHACK weekend
 Our team is highly diverse in terms of nationalities and education levels. We created a supportive and hard working environment together and everyone did their part as perfect as it can be within 24 hours. Despite being in this extraordinary times where hackathons are conducted **remotely** with participants all over the globe with different timezones, we will managed to have had productive and insightful discussion together. We are glad we hacked together :)
 
