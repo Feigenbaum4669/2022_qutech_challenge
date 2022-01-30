@@ -1,8 +1,9 @@
 # iQuHACK22 QuTech Quantum Error Correction Challenge
 
-# Project : QEC Bingo Game
+# Project : QEC Bingo Game, by the QuBINGO team
 
 ## Team members and experience
+
 * [Abhay Kamble](https://github.com/abzsd), CS Undergrad @BITS Goa
 * [Bernard Wo](https://github.com/bernwo) MSc Applied Physics @ Delft University of Technology,
 * [Oskar Słowik](https://github.com/Feigenbaum4669) PhD candidate @ Center for Theoretical Physics PAS,
