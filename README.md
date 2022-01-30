@@ -29,7 +29,9 @@ The basic layout of the game is a 4x4 grid which contains numbers ranging from 0
 
 ![ex_grid](https://user-images.githubusercontent.com/73556839/151690729-09667da5-074a-458c-b45c-01ee4809add7.png)
 
-At each turn, a player gives an input, which can be no error (I) or any of the single-qubit Pauli errors (X, Y, Z). The syndrome of a chosen input triggers the cells in the player's respective grid. If the full diagonal or a straight line has been triggerred, that player wins.
+At each turn, a player gives an input, which can be no error (I) or any of the single-qubit Pauli errors (X, Y, Z). The syndrome of a chosen input triggers the cells in the player's respective grid. If the full diagonal or a straight line has been triggered, that player wins. **Example below**:
+
+![ex_grid](https://github.com/Feigenbaum4669/2022_qutech_challenge/blob/main/Assets/labelled_grid.png)
 
 ## Implementation 
 We can implement this code and use [*Quantum-Inspire*](https://www.quantum-inspire.com/)'s classical simulator since our idea uses 9 qubits.
